@@ -18,7 +18,7 @@ collection tools of found on internet.
 * [filebot](https://www.filebot.net/) 影视剧分类神器
 * [zzkia](https://github.com/dcalsky/zzkia) 诺基亚，短信表情包生成器
 * [cope](https://github.com/LingDong-/cope) 格律诗编辑 IDE
-* [第一范文网](http://www.diyifanwen.com) [xiangdang](http://www.xiangdang.net) [ypppt](http://www.ypppt.com) 工作总结实用网站
+* [第一范文网](http://www.diyifanwen.com) [香当文档](http://www.xiangdang.net) [优品PPT](http://www.ypppt.com) 工作总结实用网站
 
 ## Python Lib
 
