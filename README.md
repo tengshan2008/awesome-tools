@@ -19,11 +19,15 @@ collection tools of found on internet.
 * [crontab-generator](https://helloacm.com/crontab-generator/) Linux 定时任务生成器
 * [meme-generator](http://www.lijinke.cn/react-meme-generator/#) 表情包制作，给图片配上文字
 * [wechat-format](https://github.com/lyricat/wechat-format) 微信公众号编辑器，使用 markdown 格式
+* [gitignore-generator](https://gitignore.io/) 为你的项目创建通用 .gitignore 文件
+* [cloudconvert](https://cloudconvert.com/) 在线文件格式转换工具
 
 ## 2. Commend Tools
 
 * [asciinema](https://asciinema.org/) 录制并分享命令行过程
 * [hexyl](https://github.com/sharkdp/hexyl) 查看文件十六进制内容的工具
+* [subsync](https://github.com/smacke/subsync) 自动同步字幕与视频
+* [bashupload](https://bashupload.com/) 上传文件到一个 7 天的临时中转站
 
 ## 3. Common Tools
 
