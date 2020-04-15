@@ -4,6 +4,7 @@ collection tools of found on internet.
 ## 1. Online Tools
 
 * [smartresize](https://www.smartresize.com/zh-cn) 裁剪图片
+* [iLoveIMG](https://www.iloveimg.com/zh-cn) 图片简易编辑器
 * [uuidgenerator](https://www.uuidgenerator.net/) UUID 生成器
 * [resumd](https://github.com/timqian/resumd) 简历生成器
 * [zzkia](https://github.com/dcalsky/zzkia) 诺基亚，短信表情包生成器
@@ -14,6 +15,7 @@ collection tools of found on internet.
 * [gridsound](https://gridsound.com/) 数字音频编辑器
 * [tableconvert](https://tableconvert.com/) 将各种格式的文件转化为表格显示
 * [screenshot-anywhere](https://screenshot.simplecto.com/) 无限制生成任意网站的截图
+* [screendump](https://screendump.techulus.com/) 另一款网站截图工具
 * [Arya](https://markdown.lovejade.cn/) Markdown 编辑器
 * [explainshell](https://www.explainshell.com/) 详细解释常见命令行
 * [crontab-generator](https://helloacm.com/crontab-generator/) Linux 定时任务生成器
@@ -21,6 +23,8 @@ collection tools of found on internet.
 * [wechat-format](https://github.com/lyricat/wechat-format) 微信公众号编辑器，使用 markdown 格式
 * [gitignore-generator](https://gitignore.io/) 为你的项目创建通用 .gitignore 文件
 * [cloudconvert](https://cloudconvert.com/) 在线文件格式转换工具
+* [MikuTools](https://tools.miku.ac/) Miku 工具集
+* [avataaars-generator](https://getavataaars.com/) 模板式生成简易卡通头像
 
 ## 2. Commend Tools
 
@@ -46,6 +50,7 @@ collection tools of found on internet.
 * [AIDungeon2](https://github.com/AIDungeon/AIDungeon) AI 龙与地下城
 * [pixaven](https://app.pixaven.com/overview) 人像处理 API
 * [adb](https://www.appinn.com/download-adb-or-fastboot-without-android-studio/) 工具下载
+* [kdenlive](https://kdenlive.org/en/) 视频编辑软件（免费）
 
 
 ## 4. Python Lib
