@@ -1,3 +1,5 @@
+![visitors](https://visitor-badge.glitch.me/badge?page_id=tengshan2008.awesome-tools)
+
 # awesome-tools
 collection tools of found on internet.
 
@@ -32,6 +34,7 @@ collection tools of found on internet.
 * [hexyl](https://github.com/sharkdp/hexyl) 查看文件十六进制内容的工具
 * [subsync](https://github.com/smacke/subsync) 自动同步字幕与视频
 * [bashupload](https://bashupload.com/) 上传文件到一个 7 天的临时中转站
+* [0x0](https://github.com/mia-0/0x0) 文件中转站（30天 512M）
 
 ## 3. Common Tools
 
@@ -66,3 +69,4 @@ collection tools of found on internet.
 ## 6. ICON(CSS)
 
 * [remixicon](https://remixicon.com/) remix 图标
+* [ikonate](https://ikonate.com/)  ikonate 图标
