@@ -54,6 +54,8 @@ collection tools of found on internet.
 * [pixaven](https://app.pixaven.com/overview) 人像处理 API
 * [adb](https://www.appinn.com/download-adb-or-fastboot-without-android-studio/) 工具下载
 * [kdenlive](https://kdenlive.org/en/) 视频编辑软件（免费）
+* [qrcode](https://github.com/sylnsfar/qrcode) 生成二维码
+* [raccoon](https://raccoon.onyxbits.de/) Google Play Store APK 下载器
 
 
 ## 4. Python Lib
@@ -70,3 +72,5 @@ collection tools of found on internet.
 
 * [remixicon](https://remixicon.com/) remix 图标
 * [ikonate](https://ikonate.com/)  ikonate 图标
+* [free-icon33](https://blog.usepastel.com/post/33-beautiful-free-icon-sets) 33个免费图标资源
+
