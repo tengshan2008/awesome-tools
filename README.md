@@ -7,6 +7,7 @@ collection tools of found on internet.
 
 * [smartresize](https://www.smartresize.com/zh-cn) 裁剪图片
 * [iLoveIMG](https://www.iloveimg.com/zh-cn) 图片简易编辑器
+* [pixlr](https://pixlr.com/x/) 图像编辑
 * [uuidgenerator](https://www.uuidgenerator.net/) UUID 生成器
 * [resumd](https://github.com/timqian/resumd) 简历生成器
 * [zzkia](https://github.com/dcalsky/zzkia) 诺基亚，短信表情包生成器
@@ -24,10 +25,15 @@ collection tools of found on internet.
 * [crontab-guru](https://crontab.guru/) Linux 定时任务生成器（黑）
 * [meme-generator](http://www.lijinke.cn/react-meme-generator/#) 表情包制作，给图片配上文字
 * [wechat-format](https://github.com/lyricat/wechat-format) 微信公众号编辑器，使用 markdown 格式
+* [doocs-md](https://github.com/doocs/md) 微信公众号编辑器，基于 wechat-format
 * [gitignore-generator](https://gitignore.io/) 为你的项目创建通用 .gitignore 文件
 * [cloudconvert](https://cloudconvert.com/) 在线文件格式转换工具
 * [MikuTools](https://tools.miku.ac/) Miku 工具集
 * [avataaars-generator](https://getavataaars.com/) 模板式生成简易卡通头像
+* [yinxietu](https://c.p2hp.com/yinxietu/) 利用图片加解密文本信息
+* [happyhues](https://www.happyhues.co/palettes/15) 配色网站
+* [WiFi-qrcode](https://modemly.com/qrcode) 即时生成连接 WiFi 的二维码
+* [generative-placeholders](https://generative-placeholders.glitch.me/) 网页图片占位图
 
 ## 2. Commend Tools
 
@@ -75,4 +81,5 @@ collection tools of found on internet.
 * [remixicon](https://remixicon.com/) remix 图标
 * [ikonate](https://ikonate.com/)  ikonate 图标
 * [free-icon33](https://blog.usepastel.com/post/33-beautiful-free-icon-sets) 33个免费图标资源
+* [undraw](https://undraw.co/illustrations) 免费插图
 
