@@ -21,6 +21,7 @@ collection tools of found on internet.
 * [Arya](https://markdown.lovejade.cn/) Markdown 编辑器
 * [explainshell](https://www.explainshell.com/) 详细解释常见命令行
 * [crontab-generator](https://helloacm.com/crontab-generator/) Linux 定时任务生成器
+* [crontab-guru](https://crontab.guru/) Linux 定时任务生成器（黑）
 * [meme-generator](http://www.lijinke.cn/react-meme-generator/#) 表情包制作，给图片配上文字
 * [wechat-format](https://github.com/lyricat/wechat-format) 微信公众号编辑器，使用 markdown 格式
 * [gitignore-generator](https://gitignore.io/) 为你的项目创建通用 .gitignore 文件
@@ -56,6 +57,7 @@ collection tools of found on internet.
 * [kdenlive](https://kdenlive.org/en/) 视频编辑软件（免费）
 * [qrcode](https://github.com/sylnsfar/qrcode) 生成二维码
 * [raccoon](https://raccoon.onyxbits.de/) Google Play Store APK 下载器
+* [cowrie](https://github.com/cowrie/cowrie) 虚假的模拟 SSH 程序，防止黑客攻击
 
 
 ## 4. Python Lib
