@@ -1,7 +1,7 @@
-![visitors](https://visitor-badge.glitch.me/badge?page_id=tengshan2008.awesome-tools)
-
 # awesome-tools
 collection tools of found on internet.
+
+![visitors](https://visitor-badge.glitch.me/badge?page_id=tengshan2008.awesome-tools)
 
 ## 1. Online Tools
 
