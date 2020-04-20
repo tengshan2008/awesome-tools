@@ -1,7 +1,8 @@
 # awesome-tools
-collection tools of found on internet.
 
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=tengshan2008.awesome-tools)
+
+collection tools of found on internet.
 
 ## 1. Online Tools
 
@@ -16,6 +17,7 @@ collection tools of found on internet.
 * [whatanime](https://whatanime.ga/) 动画截图识别工具
 * [Colourise](https://colourise.sg/) 黑白照片上色工具
 * [gridsound](https://gridsound.com/) 数字音频编辑器
+* [XAudioPro](http://www.xaudiopro.com/) 音频实时剪辑转码
 * [tableconvert](https://tableconvert.com/) 将各种格式的文件转化为表格显示
 * [screenshot-anywhere](https://screenshot.simplecto.com/) 无限制生成任意网站的截图
 * [screendump](https://screendump.techulus.com/) 另一款网站截图工具
@@ -34,6 +36,8 @@ collection tools of found on internet.
 * [happyhues](https://www.happyhues.co/palettes/15) 配色网站
 * [WiFi-qrcode](https://modemly.com/qrcode) 即时生成连接 WiFi 的二维码
 * [generative-placeholders](https://generative-placeholders.glitch.me/) 网页图片占位图
+* [math-plot-graph](https://helloacm.com/tools/math-plot-graph/) 简易数学函数作图工具
+* [excalidraw](https://excalidraw.com/) 白板绘图开源工具（线稿风格）
 
 ## 2. Commend Tools
 
@@ -82,4 +86,5 @@ collection tools of found on internet.
 * [ikonate](https://ikonate.com/)  ikonate 图标
 * [free-icon33](https://blog.usepastel.com/post/33-beautiful-free-icon-sets) 33个免费图标资源
 * [undraw](https://undraw.co/illustrations) 免费插图
+* [awesome-icons](https://github.com/vkarampinis/awesome-icons) 图标合集
 
