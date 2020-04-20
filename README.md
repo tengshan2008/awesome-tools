@@ -46,6 +46,7 @@ collection tools of found on internet.
 * [subsync](https://github.com/smacke/subsync) 自动同步字幕与视频
 * [bashupload](https://bashupload.com/) 上传文件到一个 7 天的临时中转站
 * [0x0](https://github.com/mia-0/0x0) 文件中转站（30天 512M）
+* [qrcp](https://claudiodangelis.com/qrcp/) 生成二维码，在同一 WiFi 下传输文件
 
 ## 3. Common Tools
 
