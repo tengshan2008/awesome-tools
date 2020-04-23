@@ -38,6 +38,11 @@ collection tools of found on internet.
 * [generative-placeholders](https://generative-placeholders.glitch.me/) 网页图片占位图
 * [math-plot-graph](https://helloacm.com/tools/math-plot-graph/) 简易数学函数作图工具
 * [excalidraw](https://excalidraw.com/) 白板绘图开源工具（线稿风格）
+* [iknowwhatyoudownload](https://iknowwhatyoudownload.com/) BT/PT 全球下载统计
+* [pdfcrowd](https://pdfcrowd.com/) HTML 转 PDF
+* [File Destructor](http://www.xnet.se/fd/) 生成虚假的错误文件
+* [bgeraser](https://bgeraser.com/index.html) 去除图片背景
+* [小画桌](https://xiaohuazhuo.com/) 在线协作白板
 
 ## 2. Commend Tools
 
