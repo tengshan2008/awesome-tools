@@ -29,7 +29,7 @@ collection tools of found on internet.
 * [wechat-format](https://github.com/lyricat/wechat-format) 微信公众号编辑器，使用 markdown 格式
 * [doocs-md](https://github.com/doocs/md) 微信公众号编辑器，基于 wechat-format
 * [gitignore-generator](https://gitignore.io/) 为你的项目创建通用 .gitignore 文件
-* [cloudconvert](https://cloudconvert.com/) 在线文件格式转换工具
+* [cloudconvert](https://cloudconvert.com/) [samllpdf](https://smallpdf.com/) [convertio](https://convertio.co/zh/) 在线文件格式转换工具
 * [MikuTools](https://tools.miku.ac/) Miku 工具集
 * [avataaars-generator](https://getavataaars.com/) 模板式生成简易卡通头像
 * [yinxietu](https://c.p2hp.com/yinxietu/) 利用图片加解密文本信息
