@@ -9,6 +9,7 @@ collection tools of found on internet.
 * [smartresize](https://www.smartresize.com/zh-cn) 裁剪图片
 * [iLoveIMG](https://www.iloveimg.com/zh-cn) 图片简易编辑器
 * [pixlr](https://pixlr.com/x/) 图像编辑
+* [storycreator](https://storycreatorapp.com/) 视频编辑
 * [uuidgenerator](https://www.uuidgenerator.net/) UUID 生成器
 * [resumd](https://github.com/timqian/resumd) 简历生成器
 * [zzkia](https://github.com/dcalsky/zzkia) 诺基亚，短信表情包生成器
@@ -81,6 +82,8 @@ collection tools of found on internet.
 * [docx2md](https://github.com/mattn/docx2md) word 文档转为 markdown
 * [TagUI-Python](https://github.com/tebelorg/TagUI-Python) 自动化 python 库，类似按键精灵
 * [Gooey](https://github.com/chriskiehl/Gooey) 转化 python 命令行工具为 GUI 工具
+* [EasyOCR](https://github.com/JaidedAI/EasyOCR) 简易 OCR 工具，可识别40余种语言
+* [brython](https://github.com/brython-dev/brython) 使用 python 替代 javascript，可响应 DOM 等 API
 
 ## 5. Self Host Tools
 
