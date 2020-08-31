@@ -97,3 +97,7 @@ collection tools of found on internet.
 * [undraw](https://undraw.co/illustrations) 免费插图
 * [awesome-icons](https://github.com/vkarampinis/awesome-icons) 图标合集
 
+## 6. Cheatsheet
+
+* [vim](https://darkshadow.io/2020/06/21/vim-cheatsheet.html) vim文本编辑器
+
