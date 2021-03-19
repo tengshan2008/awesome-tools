@@ -32,6 +32,7 @@ collection tools of found on internet.
 * [gitignore-generator](https://gitignore.io/) 为你的项目创建通用 .gitignore 文件
 * [cloudconvert](https://cloudconvert.com/) [samllpdf](https://smallpdf.com/) [convertio](https://convertio.co/zh/) 在线文件格式转换工具
 * [MikuTools](https://tools.miku.ac/) Miku 工具集
+* [v2fy](https://v2fy.com/) 猫抓导航
 * [avataaars-generator](https://getavataaars.com/) 模板式生成简易卡通头像
 * [yinxietu](https://c.p2hp.com/yinxietu/) 利用图片加解密文本信息
 * [happyhues](https://www.happyhues.co/palettes/15) 配色网站
